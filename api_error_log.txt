@@ -1,4 +1,0 @@
-2015-02-WedCETError retrive data from server API.\n2015-02-04T10:54:46+01:00 Error retrive data from server API.\n2015-02-04T10:55:42+01:00 Error retrive data from server API.
-2015-02-04T10:55:43+01:00 Error retrive data from server API.
-2015-02-04T10:56:30+01:00 Error retrive data from server API.
-2015-02-04T10:57:38+01:00 Error retrive data from server API.
